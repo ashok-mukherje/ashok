@@ -1,2 +1,2 @@
 # ashok
-repo name
+repository name
